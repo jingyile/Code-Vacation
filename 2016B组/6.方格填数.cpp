@@ -1,8 +1,8 @@
-/*大概是这样子
+/*澶ф鏄繖鏍峰瓙
      a[0] a[1] a[2]
 a[3] a[4] a[5] a[6]
 a[7] a[8] a[9]
-判断连续数字相邻即可 
+鍒ゆ柇杩炵画鏁板瓧鐩搁偦鍗冲彲 
 */
 #include<iostream>
 #include<cmath>
