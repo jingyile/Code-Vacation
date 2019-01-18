@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int cnt=0;
+int cnt;
 int a[13];
 int vis[13]; 
 void dfs(int n)
